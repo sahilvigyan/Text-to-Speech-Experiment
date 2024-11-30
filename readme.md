@@ -17,6 +17,7 @@ Unique words are,
 this, is, a, cat, that, ball, not, and
 
 **Discovery 1**
+
 "During speaking an entire sentence, it's not just the words being spoken, it's a couple of phrases getting being spoken."
 For example, in the sentence - This is a cat. The way we/me generally pronounce it is like "This is-a cat." 
 
