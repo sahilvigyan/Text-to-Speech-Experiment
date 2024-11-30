@@ -3,7 +3,7 @@ This project is an experiment regarding voice generation in computers. There wil
 2. Emotions in Voice
 3. Differences between voices of different persons regarding how their tone sounds
 
-## Module 1
+Module 1
 
 In this module we will be trying to regenerate someone else voice just by concatenating a few prerecorded words. 
 
@@ -16,7 +16,8 @@ ball is not cat and cat is not ball
 Unique words are,
 this, is, a, cat, that, ball, not, and
 
-**Discovery 1**
+Discovery 1
+
 "During speaking an entire sentence, it's not just the words being spoken, it's a couple of phrases getting being spoken."
 For example, in the sentence - This is a cat. The way we/me generally pronounce it is like "This is-a cat." 
 
