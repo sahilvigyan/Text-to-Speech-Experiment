@@ -36,6 +36,10 @@ Module 2:
 	this, cnj_0, is, cnj_0, a, cnj_, -0.2, cat
 
 Module 3:
+	In this module we will be applying differnet speeds at different words randomly and see if it creates some realistic sounding speaks. 
+
+	Discovery 3:
+	By applying differnet speeds at different words randomly, it generates more human like speeches. 
 	
 	
 
